@@ -1,0 +1,14 @@
+C:\Users\PC\RiderProjects\Baitapmang2chieu\Baitapmang2chieu\bin\Debug\net10.0\Baitapmang2chieu.exe
+C:\Users\PC\RiderProjects\Baitapmang2chieu\Baitapmang2chieu\bin\Debug\net10.0\Baitapmang2chieu.deps.json
+C:\Users\PC\RiderProjects\Baitapmang2chieu\Baitapmang2chieu\bin\Debug\net10.0\Baitapmang2chieu.runtimeconfig.json
+C:\Users\PC\RiderProjects\Baitapmang2chieu\Baitapmang2chieu\bin\Debug\net10.0\Baitapmang2chieu.dll
+C:\Users\PC\RiderProjects\Baitapmang2chieu\Baitapmang2chieu\bin\Debug\net10.0\Baitapmang2chieu.pdb
+C:\Users\PC\RiderProjects\Baitapmang2chieu\Baitapmang2chieu\obj\Debug\net10.0\Baitapmang2chieu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\RiderProjects\Baitapmang2chieu\Baitapmang2chieu\obj\Debug\net10.0\Baitapmang2chieu.AssemblyInfoInputs.cache
+C:\Users\PC\RiderProjects\Baitapmang2chieu\Baitapmang2chieu\obj\Debug\net10.0\Baitapmang2chieu.AssemblyInfo.cs
+C:\Users\PC\RiderProjects\Baitapmang2chieu\Baitapmang2chieu\obj\Debug\net10.0\Baitapmang2chieu.csproj.CoreCompileInputs.cache
+C:\Users\PC\RiderProjects\Baitapmang2chieu\Baitapmang2chieu\obj\Debug\net10.0\Baitapmang2chieu.dll
+C:\Users\PC\RiderProjects\Baitapmang2chieu\Baitapmang2chieu\obj\Debug\net10.0\refint\Baitapmang2chieu.dll
+C:\Users\PC\RiderProjects\Baitapmang2chieu\Baitapmang2chieu\obj\Debug\net10.0\Baitapmang2chieu.pdb
+C:\Users\PC\RiderProjects\Baitapmang2chieu\Baitapmang2chieu\obj\Debug\net10.0\Baitapmang2chieu.genruntimeconfig.cache
+C:\Users\PC\RiderProjects\Baitapmang2chieu\Baitapmang2chieu\obj\Debug\net10.0\ref\Baitapmang2chieu.dll
